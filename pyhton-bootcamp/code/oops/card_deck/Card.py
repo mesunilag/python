@@ -45,3 +45,7 @@ class Deck:
     
     def deal_hand(self, num):
         return self._deal(num)        
+    
+    
+class CardDeckApp:
+    
